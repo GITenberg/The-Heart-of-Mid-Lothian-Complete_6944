@@ -1,0 +1,46 @@
+_repo: The-Heart-of-Mid-Lothian-Complete_6944
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 6944/6944-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal stories'
+- !lcsh 'Historical fiction'
+- !lcsh 'Pardon -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcsh 'Scots -- England -- Fiction'
+- !lcsh 'Porteous Riots, 1736 -- Fiction'
+- !lcsh 'Women travelers -- Fiction'
+- !lcsh 'Scotland -- History -- 18th century -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Women prisoners -- Fiction'
+- !lcsh 'Great Britain -- History -- George II, 1727-1760 -- Fiction'
+- GITenberg
+title: The Heart of Mid-Lothian, Complete
+url: http://www.gutenberg.org/ebooks/6944
